@@ -9,14 +9,16 @@ I'm just yet another web developer. Working full-time job and sometimes contribu
 ## Tech, Libraries & Frameworks:
 
 - **Vite** — My curreny bundler of choice, it have replaced Webpack due to how fast it is and how easier it is to modify my builds;
-- **Vue** — Had some experience in the past, but not doing anything with this library for a while now.
+- **Vue** — Had some experience in the past, but not doing anything with this library for a while now;
+- **WordPress** — The main thing I'm working with today, mostly building and maintaining WordPress theme with huge amount of custom functionality.
 
 ### For personal use:
 
 These are reasearched & used by me when trying to make something outside of work time.
 
 - **Browser Extensions** — Have successfuly made and published an extension for myself;
-- **Svelte/SvelteKit** — I'm trying to use it in my personal projects, but never had a chance to try in anything big;
+- **Discord.JS** — Had experience making the bot for Discord with members activity statistics collection;
+- **Svelte/SvelteKit** — I'm trying to use it in my personal projects, but never had a chance to try in anything big.
 
 ## Software:
 
