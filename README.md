@@ -1,6 +1,6 @@
 Web developer currently residing in Serbia. Working a full time job. Working for 6+ years now.
 
-This is my personal account, containing my own small pet project and occasional contributions to the projects I'm interested in.
+This is my personal account, containing my own small pet projects and occasional contributions to the projects I'm interested in.
 
 ## Tech stack (short version)
 
