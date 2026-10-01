@@ -6,5 +6,5 @@ This is my personal account, containing my own small pet projects and occasional
 
 - Languages: **PHP**, **JS/TS**, **CSS/SCSS**
 - Tech (CMS/Libraries): **WordPress**, **Vue**, **Svelte/SvelteKit**, **Vite**, **Browser Extensions**
-- LLMs/Agents: **Local LLMs with OpenCode**, **Claude Code**
+- LLMs/Agents: **Local LLMs with OpenCode**, **Claude Code**; ([What I use them for?](details/llm-usage.md))
 - Notable Software: **PhpStorm**
